@@ -1,2 +1,2 @@
 # Conky
-Personal Conkr Config
+Personal Conky Config
